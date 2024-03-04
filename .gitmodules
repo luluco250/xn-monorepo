@@ -1,0 +1,24 @@
+[submodule "uzuy-ume"]
+	path = uzuy-ume
+	url = https://github.com/luluco250/uzuy-ume
+[submodule "erehpsomta"]
+	path = erehpsomta
+	url = https://github.com/luluco250/erehpsomta
+[submodule "etakeh"]
+	path = etakeh
+	url = https://github.com/luluco250/etakeh
+[submodule "kcipkcol-mcr"]
+	path = kcipkcol-mcr
+	url = https://github.com/luluco250/kcipkcol-mcr
+[submodule "esufpmudxn"]
+	path = esufpmudxn
+	url = https://github.com/luluco250/esufpmudxn
+[submodule "lootpmudxn"]
+	path = lootpmudxn
+	url = https://github.com/luluco250/lootpmudxn
+[submodule "rerolpxearget"]
+	path = rerolpxearget
+	url = https://github.com/luluco250/rerolpxearget
+[submodule "iugmcrarget"]
+	path = iugmcrarget
+	url = https://github.com/luluco250/iugmcrarget
